@@ -1,0 +1,1000 @@
+  968  git branch --unset-upstream
+  969  git status
+  970  git branch --unset-upstream
+  971  git status
+  972  git push
+  973  git checkout main
+  974  git status
+  975  git push
+  976  git push --set-upstream origin main
+  977  python3 test2.py
+  978  clear
+  979  python3 test2.py
+  980  clear
+  981  python3 test2.py
+  982  cd recurse/codecademy
+  983  ls
+  984  cd flexbox-business-site-starting
+  985  ls
+  986  git status
+  987  cd recurse/codecademy
+  988  ls
+  989  echo "# flexbox-business-website" >> README.md
+  990  git init
+  991  git add README.md
+  992  git commit -m "first commit"
+  993  git branch -M main
+  994  git remote add origin git@github.com:Kanyisa-Ntombini/flexbox-business-website.git
+  995  git push -u origin main
+  996  ls
+  997  clear
+  998  ls
+  999  cd flexbox-business
+ 1000  ls
+ 1001  git status
+ 1002  cd
+ 1003  cd recurse/codecademy
+ 1004  ls
+ 1005  cd flexbox-business
+ 1006  ls
+ 1007  git status
+ 1008  git init
+ 1009  git add .
+ 1010  git commit -m 'first commit'
+ 1011  git status
+ 1012  git remote add origin git@github.com:Kanyisa-Ntombini/flexbox-business.git
+ 1013  git branch -M main
+ 1014  git push -u origin main
+ 1015  cd recurse/codecademy//home/kanyi/recurse/codecademy/something/resources
+ 1016  /home/kanyi/recurse/codecademy/something/coffee.ico
+ 1017  /home/kanyi/recurse/codecademy/something/favicon.ico
+ 1018  /home/kanyi/recurse/codecademy/something/index.html
+ 1019  cd recurse/codecademy
+ 1020  ls
+ 1021  cd flexbox-business-site-starting
+ 1022  ls
+ 1023  git status
+ 1024  git init
+ 1025  git add .
+ 1026  git commit -m 'first commit'
+ 1027  git status
+ 1028  git remote add origin git@github.com:Kanyisa-Ntombini/flexbox-business-site-starting.git
+ 1029  git branch -M main
+ 1030  git push -u origin main
+ 1031  cd recurse/codecademy
+ 1032  ls
+ 1033  cd responsive-club-starting
+ 1034  ls
+ 1035  git status
+ 1036  git init
+ 1037  git add .
+ 1038  git commit -m 'first commit'
+ 1039  git status
+ 1040  git remote add origin git@github.com:Kanyisa-Ntombini/responsive-club-starting.git
+ 1041  git branch -M main
+ 1042  git push -u origin main
+ 1043  git status
+ 1044  git add .
+ 1045  git commit -m 'edits'
+ 1046  git push
+ 1047  node testing2.js
+ 1048  clear
+ 1049  node testing2.js
+ 1050  clear
+ 1051  node testing2.js
+ 1052  clear
+ 1053  node testing2.js
+ 1054  clear
+ 1055  node testing2.js
+ 1056  clear
+ 1057  node testing2.js
+ 1058  clear
+ 1059  node testing2.js
+ 1060  clear
+ 1061  node testing2.js
+ 1062  clear
+ 1063  node testing2.js
+ 1064  cd recurse/codecademy/capstone_fotomatic_start
+ 1065  ls
+ 1066  git init
+ 1067  git add .
+ 1068  git commit -m 'first commit'
+ 1069  git push
+ 1070  git status
+ 1071  git remote add origin git@github.com:Kanyisa-Ntombini/capstone_fotomatic_start.git
+ 1072  git branch -M main
+ 1073  git push -u origin main
+ 1074  git status
+ 1075  git push
+ 1076  cd
+ 1077  cd recurse/testing/testing-node
+ 1078  ls
+ 1079  node testing2.js
+ 1080  cd career/portfolio
+ 1081  cd careers/portfolio
+ 1082  git status
+ 1083  git add .
+ 1084  git commit -m 'added style changes'
+ 1085  git status
+ 1086  git push
+ 1087  git status
+ 1088  exit
+ 1089  node
+ 1090  clear
+ 1091  node testing2.js
+ 1092  clear
+ 1093  cd ..
+ 1094  ls
+ 1095  cd testing-node
+ 1096  ls
+ 1097  cd js
+ 1098  ls
+ 1099  clear
+ 1100  node testing2.js
+ 1101  ls
+ 1102  cd js
+ 1103  ls
+ 1104  clear
+ 1105  node testing2.js
+ 1106  clear
+ 1107  node testing2.js
+ 1108  cd recurse/codecademy/responsive-club-starting
+ 1109  ls
+ 1110  git status
+ 1111  git push
+ 1112  git status
+ 1113  git push
+ 1114  ls
+ 1115  ls /
+ 1116  man rmdir
+ 1117  man rmdir -D
+ 1118  man rm
+ 1119  node task01.js
+ 1120  cd umuzi/umuzi-level-zero
+ 1121  ls
+ 1122  git status
+ 1123  git add .
+ 1124  git commit -m 'added more exercises'
+ 1125  git status
+ 1126  git push
+ 1127  cd umuzi
+ 1128  ls
+ 1129  mkdir git-basic-exercises
+ 1130  ls
+ 1131  cd git-basic-exercises
+ 1132  ls
+ 1133  ls -a
+ 1134  git init
+ 1135  ls -a
+ 1136  git status
+ 1137  touch README.md
+ 1138  ls -a
+ 1139  git status
+ 1140  git add README.md
+ 1141  git status
+ 1142  git commit -m 'initial commit'
+ 1143  git log
+ 1144  nano README.md
+ 1145  cat README.md
+ 1146  git status
+ 1147  git add README.md
+ 1148  git status
+ 1149  git commit -m 'second commit'
+ 1150  git status
+ 1151  nano README.md
+ 1152  git log
+ 1153  cat README.md
+ 1154  nano README.md
+ 1155  git status
+ 1156  git add README.md
+ 1157  git status
+ 1158  git commit -m 'third commit'
+ 1159  git status
+ 1160  git log
+ 1161  git checkout 6f29f3717bdb44c0feb23f0ae91e6c571b02f97e
+ 1162  cat README.md
+ 1163  git checkout main
+ 1164  git checkout master
+ 1165  cat README.md
+ 1166  git branch
+ 1167  git branch milkshake-flavours
+ 1168  git branch
+ 1169  git checkout milkshake-flavours
+ 1170  git branch
+ 1171  nano milkshakes.md
+ 1172  git add milkshakes.md
+ 1173  git status
+ 1174  git commit -m 'added initial flavours'
+ 1175  git log
+ 1176  git checkout main
+ 1177  git checkout master
+ 1178  git status
+ 1179  git log
+ 1180  ls
+ 1181  cat README.md
+ 1182  git log
+ 1183  git branch
+ 1184  git branch history
+ 1185  git checkout history
+ 1186  git branch
+ 1187  git log
+ 1188  history > history.txt
+ 1189  ls
+ 1190  git add history.txt
+ 1191  git status
+ 1192  git commit -m 'added history'
+ 1193  git log
+ 1194  cat history.txt
+ 1195  clear
+ 1196  git log
+ 1197  git checkout milkshake
+ 1198  git branch
+ 1199  git checkout milkshake-flavours
+ 1200  git branch
+ 1201  git log
+ 1202  nano README.md
+ 1203  git branch
+ 1204  git status
+ 1205  ls
+ 1206  nano README.md
+ 1207  git add README.md
+ 1208  git status
+ 1209  git commit -m 'random readme changes'
+ 1210  cat README.md
+ 1211  git checkout history
+ 1212  ls
+ 1213  cat README.md
+ 1214  git branch
+ 1215  rm README.md
+ 1216  ls
+ 1217  echo'booya' > README.md
+ 1218  echo 'booya' > README.md
+ 1219  ls
+ 1220  cat README.md
+ 1221  git add README.md
+ 1222  ls
+ 1223  git commit 'rewrote readme'
+ 1224  git commit -m 'rewrote readme'
+ 1225  git status
+ 1226  git checkout main
+ 1227  git checkout master
+ 1228  ls
+ 1229  git log
+ 1230  git checkout milkshake-flavours
+ 1231  ls
+ 1232  git log
+ 1233  git checkout history
+ 1234  ls
+ 1235  git log
+ 1236  git checkout main
+ 1237  git checkout master
+ 1238  git branch
+ 1239  git merge milkshake-flavours
+ 1240  ls
+ 1241  git log
+ 1242  git merge history
+ 1243  ls
+ 1244  git log
+ 1245  git checkout history
+ 1246  git branch
+ 1247  git milkshake-flavours
+ 1248  git checkout milkshake-flavours
+ 1249  ls
+ 1250  node task01.js
+ 1251  node task03.js
+ 1252  clear
+ 1253  node task04.js
+ 1254  node task05.js
+ 1255  clear
+ 1256  node task06.js
+ 1257  clear
+ 1258  node task06.js
+ 1259  node task07.js
+ 1260  clear
+ 1261  node task08.js
+ 1262  clear
+ 1263  node task08.js
+ 1264  clear
+ 1265  node task02.js
+ 1266  node task03.js
+ 1267  node task04.js
+ 1268  node task05.js
+ 1269  clear
+ 1270  node task06.js
+ 1271  node task07.js
+ 1272  node task09.js
+ 1273  node task08.js
+ 1274  clear
+ 1275  node task09.js
+ 1276  clear
+ 1277  node task09.js
+ 1278  clear
+ 1279  node task09.js
+ 1280  clear
+ 1281  node task09.
+ 1282  node task010.js
+ 1283  ls
+ 1284  node task11.js
+ 1285  clear
+ 1286  node task11.js
+ 1287  clear
+ 1288  node task1-1.js
+ 1289  clear
+ 1290  node task1-1.js
+ 1291  clear
+ 1292  node task1-1.js
+ 1293  clear
+ 1294  node task1-1.js
+ 1295  clear
+ 1296  node task1-1.js
+ 1297  git push
+ 1298  clear
+ 1299  node task1-3.js
+ 1300  clear
+ 1301  node task1-3.js
+ 1302  git umuzi
+ 1303  cd umuzi
+ 1304  ls
+ 1305  cd Kanyisa-Ntombini-219-level-1-programming-katas-javascript
+ 1306  ls
+ 1307  git branch
+ 1308  git checkout task-1.2
+ 1309  git checkout main
+ 1310  git checkout -b task-1.3
+ 1311  git branch
+ 1312  code .
+ 1313  git checkout main
+ 1314  git branch -b task-1.3
+ 1315  git branch -d task-1.3
+ 1316  git branch
+ 1317  git checkout -b task-1.3
+ 1318  git branch
+ 1319  code .
+ 1320  git checkout main
+ 1321  git pull
+ 1322  git checkout task-1.3
+ 1323  git status
+ 1324  clear
+ 1325  node task1-3.js
+ 1326  node task1-4.js
+ 1327  clear
+ 1328  node task1-4.js
+ 1329  clear
+ 1330  node task1-4.js
+ 1331  clear
+ 1332  node task1-4.js
+ 1333  clear
+ 1334  node task1-4.js
+ 1335  clear
+ 1336  node task1-4.js
+ 1337  clear
+ 1338  node task1-4.js
+ 1339  clear
+ 1340  node task1-4.js
+ 1341  clear
+ 1342  node task1-5.js
+ 1343  clear
+ 1344  node task1-5.js
+ 1345  clear
+ 1346  node task1-5.js
+ 1347  clear
+ 1348  node task1-5.js
+ 1349  clear
+ 1350  node task1-5.js
+ 1351  clear
+ 1352  node task1-5.js
+ 1353  clear
+ 1354  node task1-5.js
+ 1355  clear
+ 1356  node task1-5.js
+ 1357  clear
+ 1358  node task1-6.js
+ 1359  clear
+ 1360  clear
+ 1361  node task1-6.js
+ 1362  clear
+ 1363  node task1-6.js
+ 1364  clear
+ 1365  node task1-6.js
+ 1366  clear
+ 1367  node task1-6.js
+ 1368  clear
+ 1369  node task1-6.js
+ 1370  clear
+ 1371  node task1-6.js
+ 1372  clear
+ 1373  node task1-6.js
+ 1374  clear
+ 1375  node task1-6.js
+ 1376  clear
+ 1377  node task1-6.js
+ 1378  clear
+ 1379  node task1-6.js
+ 1380  clear
+ 1381  node task1-6.js
+ 1382  clear
+ 1383  node task1-6.js
+ 1384  clear
+ 1385  node task1-7.js
+ 1386  clear
+ 1387  node task1-7.js
+ 1388  clear
+ 1389  node task1-7.js
+ 1390  clear
+ 1391  node task1-7.js
+ 1392  clear
+ 1393  node task1-7.js
+ 1394  cd umuzi
+ 1395  ls
+ 1396  cd Kanyisa-Ntombini-219-level-1-programming-katas-javascript
+ 1397  ls
+ 1398  git branch
+ 1399  git status
+ 1400  git add task1-3.js
+ 1401  git status
+ 1402  git commit -m 'created and completed task 1.3'
+ 1403  git status
+ 1404  git push
+ 1405  git push --set-upstream origin task-1.3
+ 1406  cd ..
+ 1407  ls
+ 1408  cd ..
+ 1409  ls
+ 1410  cd umuzi
+ 1411  ls
+ 1412  cd coding-challenges
+ 1413  cd code-challenges
+ 1414  ls
+ 1415  cd umuzi-level-1
+ 1416  ls
+ 1417  git branch
+ 1418  ls
+ 1419  git branch
+ 1420  git init
+ 1421  ls
+ 1422  git status
+ 1423  git add .
+ 1424  git commit -m 'created and completed task 1.4 to 1.6'
+ 1425  git status
+ 1426  git branch
+ 1427  git remote add origin git@github.com:Kanyisa-Ntombini/umuzi-level-1.git
+ 1428  git branch -M main
+ 1429  git push -u origin main
+ 1430  git status
+ 1431  git add .
+ 1432  git commit -m 'created and finished first part of task 1.7'
+ 1433  git status
+ 1434  git push
+ 1435  git status
+ 1436  exit
+ 1437  node task04.js
+ 1438  clear
+ 1439  node task04.js
+ 1440  clear
+ 1441  node task05.js
+ 1442  clear
+ 1443  node task05.js
+ 1444  node task04.js
+ 1445  clear
+ 1446  node task03.js
+ 1447  clear
+ 1448  node task06.js
+ 1449  clear
+ 1450  node task06.js
+ 1451  clear
+ 1452  node task06.js
+ 1453  clear
+ 1454  node task06.js
+ 1455  clear
+ 1456  node task06.js
+ 1457  clear
+ 1458  node task06.js
+ 1459  clear
+ 1460  node task07.js
+ 1461  clear
+ 1462  node task07.js
+ 1463  clear
+ 1464  node task08.js
+ 1465  clear
+ 1466  node task09.js
+ 1467  clear
+ 1468  node task010.js
+ 1469  clear
+ 1470  node task1-1.js
+ 1471  ls
+ 1472  git status
+ 1473  clear
+ 1474  node task1-1.js
+ 1475  clear
+ 1476  node task1-1.js
+ 1477  clear
+ 1478  node task1-1.js
+ 1479  clear
+ 1480  node task1-1.js
+ 1481  clear
+ 1482  node task1-2.js
+ 1483  clear
+ 1484  node task1-2.js
+ 1485  clear
+ 1486  node task1-2.js
+ 1487  clear
+ 1488  node task1-2.js
+ 1489  clear
+ 1490  node task1-2.js
+ 1491  clear
+ 1492  node task1-4.js
+ 1493  clear
+ 1494  node task1-3.js
+ 1495  clear
+ 1496  node task1-3.js
+ 1497  clear
+ 1498  node task1-4.js
+ 1499  clear
+ 1500  node task1-4.js
+ 1501  clear
+ 1502  node task1-4.js
+ 1503  clear
+ 1504  node task1-4.js
+ 1505  clear
+ 1506  node task1-4.js
+ 1507  clear
+ 1508  node task1-5.js
+ 1509  clear
+ 1510  node task1-5.js
+ 1511  clear
+ 1512  node task1-5.js
+ 1513  clear
+ 1514  node task1-5.js
+ 1515  clear
+ 1516  node task1-5.js
+ 1517  clear
+ 1518  node task1-5.js
+ 1519  clear
+ 1520  node task1-6.js
+ 1521  clear
+ 1522  node task1-6.js
+ 1523  clear
+ 1524  node task1-7.js
+ 1525  clear
+ 1526  node task1-7.js
+ 1527  clear
+ 1528  node task1-7.js
+ 1529  clear
+ 1530  node task1-7.js
+ 1531  clear
+ 1532  node task1-7.js
+ 1533  clear
+ 1534  node task1-7.js
+ 1535  clear
+ 1536  node task1-7.js
+ 1537  clear
+ 1538  node task1-7.js
+ 1539  clear
+ 1540  node task1-7.js
+ 1541  clear
+ 1542  node task1-7.js
+ 1543  clear
+ 1544  node task1-7.js
+ 1545  clear
+ 1546  node task1-7.js
+ 1547  clear
+ 1548  node task1-7.js
+ 1549  clear
+ 1550  node task1-7.js
+ 1551  clear
+ 1552  node task1-6.js
+ 1553  clear
+ 1554  node task1-6.js
+ 1555  clear
+ 1556  node task1-5.js
+ 1557  clear
+ 1558  node task1-5.js
+ 1559  clear
+ 1560  node task1-5.js
+ 1561  cd umuzi
+ 1562  ls
+ 1563  cd  Kanyisa-Ntombini-219-level-1-programming-katas-javascript
+ 1564  ls
+ 1565  git status
+ 1566  git add .
+ 1567  git commit -m 'removed commented out code from the function'
+ 1568  git status
+ 1569  git push
+ 1570  git status
+ 1571  git branch
+ 1572  git status
+ 1573  git add .
+ 1574  git commit -m 'removed the multiple declarations of the hash variables'
+ 1575  git status
+ 1576  git push
+ 1577  git status
+ 1578  git checkout main
+ 1579  git branch
+ 1580  node testing.js
+ 1581  clear
+ 1582  node testing.js
+ 1583  clear
+ 1584  node testing.js
+ 1585  clear
+ 1586  node task2-2.js
+ 1587  clear
+ 1588  node task2-2.js
+ 1589  clear
+ 1590  node task2-2.js
+ 1591  clear
+ 1592  node testing.js
+ 1593  clear
+ 1594  node testing.js
+ 1595  clear
+ 1596  node testing.js
+ 1597  clear
+ 1598  node testing.js
+ 1599  clear
+ 1600  node testing.js
+ 1601  clear
+ 1602  node testing.js
+ 1603  clear
+ 1604  node testing.js
+ 1605  clear
+ 1606  node testing.js
+ 1607  clear
+ 1608  node testing.js
+ 1609  node
+ 1610  exit
+ 1611  cd umuzi
+ 1612  ls
+ 1613  clean
+ 1614  clear
+ 1615  git clone git@github.com:Umuzi-org/Kanyisa-Ntombini-223-person-javascript.git
+ 1616  ls
+ 1617  cd Kanyisa-Ntombini-223-person-javascript
+ 1618  ls
+ 1619  code .
+ 1620  git status
+ 1621  git branch
+ 1622  git status
+ 1623  git branch
+ 1624  clear
+ 1625  git checkout -b person
+ 1626  git branch
+ 1627  git status
+ 1628  git add .
+ 1629  git commit -m 'created person class'
+ 1630  git status
+ 1631  git push
+ 1632  git push --set-upstream origin person
+ 1633  git status
+ 1634  exit
+ 1635  node person.js
+ 1636  clear
+ 1637  node person.js
+ 1638  clear
+ 1639  node person.js
+ 1640  clear
+ 1641  node person.js
+ 1642  clear
+ 1643  node person.js
+ 1644  clear
+ 1645  node person.js
+ 1646  clear
+ 1647  node person.js
+ 1648  clear
+ 1649  node person.js
+ 1650  clear
+ 1651  node person.js
+ 1652  clear
+ 1653  node person.js
+ 1654  clear
+ 1655  node person.js
+ 1656  clear
+ 1657  node person.js
+ 1658  clear
+ 1659  node person.js
+ 1660  clear
+ 1661  node person.js
+ 1662  clear
+ 1663  node person.js
+ 1664  clear
+ 1665  node testing.js
+ 1666  clear
+ 1667  node testing.js
+ 1668  clear
+ 1669  node testing.js
+ 1670  clear
+ 1671  node testing.js
+ 1672  clear
+ 1673  node testing.js
+ 1674  clear
+ 1675  node testing.js
+ 1676  clear
+ 1677  node testing.js
+ 1678  clear
+ 1679  node testing.js
+ 1680  clear
+ 1681  node testing.js
+ 1682  clear
+ 1683  node testing.js
+ 1684  clear
+ 1685  node testing.js
+ 1686  clear
+ 1687  node testing.js
+ 1688  clear
+ 1689  node testing.js
+ 1690  clear
+ 1691  node testing.js
+ 1692  node person.js
+ 1693  clear
+ 1694  node testing.js
+ 1695  clear
+ 1696  node task2-2.js
+ 1697  clear
+ 1698  node task2-2.js
+ 1699  clear
+ 1700  node task2-2.js
+ 1701  clear
+ 1702  node task2-2.js
+ 1703  clear
+ 1704  node task2-2.js
+ 1705  clear
+ 1706  node task2-2.js
+ 1707  clear
+ 1708  node task2-3.js
+ 1709  clear
+ 1710  node task2-3.js
+ 1711  clear
+ 1712  node task2-3.js
+ 1713  clear
+ 1714  node task2-3.js
+ 1715  clear
+ 1716  node task2-3.js
+ 1717  clear
+ 1718  node task2-3.js
+ 1719  clear
+ 1720  node task2-3.js
+ 1721  clear
+ 1722  node task2-3.js
+ 1723  clear
+ 1724  node task2-3.js
+ 1725  clear
+ 1726  node task2-3.js
+ 1727  clear
+ 1728  node task2-3.js
+ 1729  clear
+ 1730  node task2-3.js
+ 1731  clear
+ 1732  node task2-3.js
+ 1733  clear
+ 1734  node task2-3.js
+ 1735  clear
+ 1736  node task2-3.js
+ 1737  clear
+ 1738  node task2-3.js
+ 1739  clear
+ 1740  node task2-3.js
+ 1741  clear
+ 1742  node task2-3.js
+ 1743  clear
+ 1744  node task2-3.js
+ 1745  clear
+ 1746  node task2-3.js
+ 1747  clear
+ 1748  node task2-3.js
+ 1749  cd umuzi/coding-challenges/umuzi-level-2
+ 1750  cd umuzi/coding-challenges
+ 1751  cd umuzi/code-challenges/umuzi-level-2
+ 1752  ls
+ 1753  git status
+ 1754  git init
+ 1755  clear
+ 1756  git status
+ 1757  git add .
+ 1758  git commit -m 'created new files'
+ 1759  git status
+ 1760  git remote add origin git@github.com:Kanyisa-Ntombini/umuzi-level-2.git
+ 1761  git branch -M main
+ 1762  git push -u origin main
+ 1763  git status
+ 1764  git add .
+ 1765  git commit -m 'fixed the loop. still need to decided to use while or for loop
+ 1766  '
+ 1767  git status
+ 1768  git push
+ 1769  git status
+ 1770  node testing.js
+ 1771  clear
+ 1772  node /home/kanyi/umuzi/code-challenges/umuzi-level-2/testing.js
+ 1773  ls
+ 1774  cd umuzi
+ 1775  ls
+ 1776  cd Kanyisa-Ntombini-223-person-javascript
+ 1777  ls
+ 1778  git status
+ 1779  code .
+ 1780  clear
+ 1781  git status
+ 1782  git add .
+ 1783  git commit -m 'commented out tests'
+ 1784  git status
+ 1785  git push
+ 1786  clear
+ 1787  git status
+ 1788  gi branch
+ 1789  git branch
+ 1790  node person.js
+ 1791  cd umuzi
+ 1792  ls
+ 1793  Kanyisa-Ntombini-219-level-1-programming-katas-javascript
+ 1794  ls
+ 1795  cd
+ 1796  cd Kanyisa-Ntombini-219-level-1-programming-katas-javascript
+ 1797  clear
+ 1798  ls
+ 1799  cd umuzi
+ 1800  ls
+ 1801  cd Kanyisa-Ntombini-219-level-1-programming-katas-javascript
+ 1802  ls
+ 1803  code .
+ 1804  clear
+ 1805  cd ..
+ 1806  ls
+ 1807  cd Kanyisa-Ntombini-223-person-javascript
+ 1808  ls
+ 1809  code .
+ 1810  git branch
+ 1811  git status
+ 1812  git branch
+ 1813  git status
+ 1814  clear
+ 1815  git add .
+ 1816  'changed variables that won't be edited to const and changed output for when no array input is entered'
+ 1817  'changed variables that won't be edited to const and changed output for when no array input is entered'
+ 1818  git commit -m 'changed variables that won't be edited to const and changed output for when no array input is entered'
+ 1819  cd umuzi
+ 1820  ls
+ 1821  cd Kanyisa-Ntombini-223-person-javascript
+ 1822  git status
+ 1823  git commit -m 'changed variables that won't be edited to const and changed output for when no array input is entered'
+ 1824  clear
+ 1825  node person.js
+ 1826  clear
+ 1827  node person.js
+ 1828  clear
+ 1829  node person.js
+ 1830  clear
+ 1831  node person.js
+ 1832  clear
+ 1833  node person.js
+ 1834  clear
+ 1835  node person.js
+ 1836  clear
+ 1837  node person.js
+ 1838  clear
+ 1839  node person.js
+ 1840  clear
+ 1841  node person.js
+ 1842  node task2-3.js
+ 1843  clear
+ 1844  node task2-3.js
+ 1845  clear
+ 1846  node testing.js
+ 1847  clear
+ 1848  node task2-3.js
+ 1849  clear
+ 1850  node testing.js
+ 1851  clear
+ 1852  node testing.js
+ 1853  clear
+ 1854  node task2-3.js
+ 1855  clear
+ 1856  node task2-3.js
+ 1857  clear
+ 1858  node task2-3.js
+ 1859  clear
+ 1860  node task2-3.js
+ 1861  cd umuzi
+ 1862  ls
+ 1863  cd Kanyisa-Ntombini-219-level-1-programming-katas-javascript
+ 1864  ls
+ 1865  code .
+ 1866  git checkout main
+ 1867  git status
+ 1868  git pull
+ 1869  git status
+ 1870  clear
+ 1871  ls
+ 1872  git branch
+ 1873  git checkout main
+ 1874  git branch
+ 1875  clear
+ 1876  git branch
+ 1877  git checkout -b task-1.3-fixed
+ 1878  git branch
+ 1879  git checkout main
+ 1880  git branch
+ 1881  git branch -D task-1.3-fixed
+ 1882  git branch
+ 1883  git status
+ 1884  git fetch
+ 1885  git branch
+ 1886  git checkout task-1.3-fixed
+ 1887  git branch
+ 1888  code .
+ 1889  clear
+ 1890  git status
+ 1891  git add .
+ 1892  git commit -m 're-created task1.3'
+ 1893  git status
+ 1894  git push
+ 1895  git status
+ 1896  cd ..
+ 1897  ls
+ 1898  cd Kanyisa-Ntombini-223-person-javascript
+ 1899  ls
+ 1900  clear
+ 1901  code .
+ 1902  cd ..
+ 1903  ls
+ 1904  cd code challenges/umuzi-level-2
+ 1905  cd code-challenges/umuzi-level-2
+ 1906  code .
+ 1907  git status
+ 1908  git add .
+ 1909  git commit -m 'it iterates the write amount of times'
+ 1910  git status
+ 1911  git push
+ 1912  cd umuzi
+ 1913  ls
+ 1914  cd Kanyisa-Ntombini-223-person-javascript
+ 1915  ls
+ 1916  git branch
+ 1917  git status
+ 1918  code .
+ 1919  clear
+ 1920  cd umuzi
+ 1921  ls
+ 1922  cd  Kanyisa-Ntombini-219-level-1-programming-katas-javascript
+ 1923  ls
+ 1924  git status
+ 1925  git checkout main
+ 1926  git status
+ 1927  code .
+ 1928  git pull
+ 1929  clear
+ 1930  node task1-7.js
+ 1931  clear
+ 1932  node task1-7.js
+ 1933  clear
+ 1934  node task1-7.js
+ 1935  clear
+ 1936  node task1-7.js
+ 1937  clear
+ 1938  node task1-7.js
+ 1939  clear
+ 1940  node task1-7.js
+ 1941  clear
+ 1942  node task1-7.js
+ 1943  clear
+ 1944  node task1-7.js
+ 1945  cd umuzi
+ 1946  ls
+ 1947  cd Kanyisa-Ntombini-219-level-1-programming-katas-javascript
+ 1948  ls
+ 1949  git branch
+ 1950  git checkout task-1.7
+ 1951  git branch
+ 1952  code .
+ 1953  git status
+ 1954  git add .
+ 1955  git commit -m 'declared combinedList with const instead of let'
+ 1956  git status
+ 1957  git push
+ 1958  git status
+ 1959  cd umuzi
+ 1960  ls
+ 1961  cd git-basic-exercises
+ 1962  ls
+ 1963  git branch
+ 1964  git log
+ 1965  ls -a
+ 1966  clear
+ 1967  history > history.txt
